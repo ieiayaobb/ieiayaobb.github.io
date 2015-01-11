@@ -1,7 +1,7 @@
 ---
 layout: blog
-title: Indy Game Dev
-summary: A step into independent game developer.
+title: Hello World
+summary: A test add
 ---
 
 # {{ page.title }}
